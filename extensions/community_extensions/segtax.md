@@ -286,5 +286,12 @@ Source : AdCOM [https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/maste
         Audigent Campaign Taxonomies
       </td>
     </tr>
+    <tr>
+      <td>10000000000000000000000</td>
+      </td>
+      <td>
+        Example vendor taxonomy
+      </td>
+    </tr>
   </tbody>
 </table>
